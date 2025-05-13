@@ -1,3 +1,8 @@
 html {
     font-family: 'Verdana', sans-serif;
+    background-color: #cbf3f0;
+}
+
+h1, h2 {
+    color: #ff9f1c;
 }

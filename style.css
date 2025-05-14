@@ -10,3 +10,7 @@ h1, h2 {
 .recipes-heading {
     text-align: center;
 }
+
+.recipes-list {
+    list-style-type: none;
+}
